@@ -79,7 +79,7 @@ while True:
         # - "q" is the the location to lookup
         # - "limit" is always 1
         # - "key" is the openweather API key, https://home.openweathermap.org/api_keys
-        key = "ac9707606134502bae6a49fd4f0cf5ba"
+        key = "Key OpenWeather"
         openweatherGeoAPIGetParameters = {
             "q": location,
             "limit": 1,
